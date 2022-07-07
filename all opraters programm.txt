@@ -1,0 +1,29 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int num1 = 10;
+    int num2 = 20;
+    int num3 = 30;
+    int num4= 40;
+    int num5= 50;
+    int num6=60;
+    int num7= 70;
+    int num8=80;
+    int num9= 900;
+    int num10=100;
+    int total = num1 + num2;   // add
+    int total2 = num3 * num4;  // multiply
+    int total3 = num5 / num6;  // divide
+    int total4 = num8 % num7;  // modules
+    int total5 = num9 - num10; // subtract
+    cout<< total<< endl;
+    cout<< total2<< endl;
+    cout<< total3<< endl;
+    cout<< total4<< endl;
+    cout<< total5<< endl;
+    return 0;
+}
+
+
+//https://github.com/praveenkumar9767/all-opraters-ccp-programm/commits?author=praveenkumar9767
